@@ -1,4 +1,4 @@
-QR Code Generator
+# QR Code Generator
 
 This is a web application that generates QR codes for various inputs, such as text, URLs, and email addresses.
 
